@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
+  - title: "최신글"
     url: /posts/
-  - title: "Categories"
+  - title: "주제별 목록"
     url: /categories/
-  - title: "Tags"
+  - title: "키워드"
     url: /tags/
-  - title: "About"
+  - title: "About" 
     url: /about/
